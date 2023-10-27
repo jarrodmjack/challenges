@@ -79,3 +79,4 @@ console.log(multiMap(
  beer: ['BEER', 'Beer', 'beerbeer'] 
  }
  */
+
